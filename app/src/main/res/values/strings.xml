@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DELFIN-MOBI</string>
+    <string name="title_activity_main2">Сканер штрихкод</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Оформление заказа</string>
+    <string name="second_fragment_label">Товары</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="mikdor">Количество</string>
+    <string name="summa">Сумма</string>
+    <string name="narkh">Цена продажа</string>
+    <string name="cancelBtn">Добавить</string>
+    <string name="Cancel">Отмена</string>
+</resources>
